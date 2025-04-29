@@ -13,7 +13,7 @@ We've rearchitected Google's BankOfAnthos microservices application to create a 
 
 ## 🏗️ Repository Structure
 
-| Service | Repository | Description |
+| Service | Git Repository | Description |
 |---------|------------|-------------|
 | 🖥️ Frontend | [victoradepoju/frontend](https://github.com/victoradepoju/frontend) | Main customer banking interface |
 | 🌐 Landing Page | [Overbugger/Bank-of-anthos-landing-page](https://github.com/Overbugger/Bank-of-anthos-landing-page) | Marketing and onboarding portal |
