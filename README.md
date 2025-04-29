@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview
 
-We've rearchitected Google's BankOfAnthos microservices application to create a more scalable, maintainable, and cloud-native banking platform. Our improvements include:
+We've rearchitected [Google's BankOfAnthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) microservices application to create a more scalable, maintainable, and cloud-native banking platform. Our improvements include:
 
 - **Microservices Decoupling**: Split the monolithic repository into 11 independent services
 - **Modernized Tech Stack**: Enhanced with stock trading capabilities using Kafka
