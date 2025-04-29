@@ -7,8 +7,10 @@
 We've rearchitected Google's BankOfAnthos microservices application to create a more scalable, maintainable, and cloud-native banking platform. Our improvements include:
 
 - **Microservices Decoupling**: Split the monolithic repository into 11 independent services
-- **Modernized Tech Stack**: Enhanced with stock trading capabilities and AI features
+- **Modernized Tech Stack**: Enhanced with stock trading capabilities using Kafka
 - **Google Cloud Optimization**: Redesigned for better GCP integration
+- **Data Analytics**: Robust data insights using BigQuery
+- **Alerting, Logging & Monitoring**: Set alerting policies for transaction volumes outside usual ranges
 - **Improved Developer Experience**: Independent development and deployment workflows
 
 ## 🏗️ Repository Structure
@@ -42,7 +44,7 @@ We've rearchitected Google's BankOfAnthos microservices application to create a 
 3. **Google Cloud Optimization**:
    - Cloud Run for stateless services
    - Cloud SQL for PostgreSQL databases
-   - Anthos for hybrid deployments
+   - BigQuery for data analytics and insights
 
 4. **Operational Improvements**:
    - Individual CI/CD pipelines per service
