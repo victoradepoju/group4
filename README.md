@@ -15,8 +15,8 @@ We've rearchitected Google's BankOfAnthos microservices application to create a 
 
 | Service | GitHub Repository | Description |
 |---------|------------|-------------|
-| 🖥️ Frontend | [victoradepoju/frontend](https://github.com/victoradepoju/frontend) | Main customer banking interface |
 | 🌐 Landing Page | [Overbugger/Bank-of-anthos-landing-page](https://github.com/Overbugger/Bank-of-anthos-landing-page) | Marketing and onboarding portal |
+| 🖥️ Frontend | [victoradepoju/frontend](https://github.com/victoradepoju/frontend) | Main customer banking interface |
 | 👥 User Service | [victoradepoju/userservice](https://github.com/victoradepoju/userservice) | Authentication and user management |
 | 📇 Contacts | [Cheesom99/contacts](https://github.com/Cheesom99/contacts) | Customer contact management |
 | 📝 Ledger Writer | [victoradepoju/ledgerwriter](https://github.com/victoradepoju/ledgerwriter) | Core transaction processing |
